@@ -1,5 +1,5 @@
-![[Pasted image 20240105155329.png]]
 
+![[welcometogcc.png]]
 > [!NOTE]  
 >🖊 공지: 이 포스트는 Google Career Certificates Data Analytics 수료증 과정을 토대로 작성됨
 > 🚩 URL: https://www.coursera.org/programs/gdsc-daejeondaehaggyo-gcc-study-8pfag/professional-certificates/google-data-analytics-korean?collectionId=RFQSv
@@ -29,7 +29,7 @@ graph LR
     D --> E[공유]
     E --> F[조치]
 ```
-![[Pasted image 20240105155404.png]]
+![[gcccourse.png]]
 1. 기초: 어디에나 존재하는 데이터
 2. 데이터 기반 의사 결정을 위한 질문
 3. 탐색을 위한 데이터 준비
