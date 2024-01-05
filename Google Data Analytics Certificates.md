@@ -1,9 +1,15 @@
 
 ![welcometogcc](./welcometogcc.png)
 
+<<<<<<< HEAD
 > [!NOTICE]
 > - 🖊 공지: 이 포스트는 Google Career Certificates Data Analytics 수료증 과정을 토대로 작성됨
 > - 🚩 URL: https://www.coursera.org/programs/gdsc-daejeondaehaggyo-gcc-study-8pfag/professional-certificates/google-data-analytics-korean?collectionId=RFQSv
+=======
+> [!NOTE]  
+>🖊 공지: 이 포스트는 Google Career Certificates Data Analytics 수료증 과정을 토대로 작성됨
+> 🚩 URL: https://www.coursera.org/programs/gdsc-daejeondaehaggyo-gcc-study-8pfag/professional-certificates/google-data-analytics-korean?collectionId=RFQSv
+>>>>>>> aa2aae67bb619158e320baceaee922f3796a8c71
 
 # 💻 Data = 정보의 모음 (혹은 집합)
 - 정보의 모음에는 숫자, 사진, 동영상, 단어, 측정 항목, 관측값 등이 포함된다.
