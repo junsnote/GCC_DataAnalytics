@@ -1,15 +1,15 @@
 
 ![welcometogcc](./welcometogcc.png)
 
-> [!NOTE]  
->🖊 공지: 이 포스트는 Google Career Certificates Data Analytics 수료증 과정을 토대로 작성됨
-> 🚩 URL: https://www.coursera.org/programs/gdsc-daejeondaehaggyo-gcc-study-8pfag/professional-certificates/google-data-analytics-korean?collectionId=RFQSv
+> [!NOTICE]
+> - 🖊 공지: 이 포스트는 Google Career Certificates Data Analytics 수료증 과정을 토대로 작성됨
+> - 🚩 URL: https://www.coursera.org/programs/gdsc-daejeondaehaggyo-gcc-study-8pfag/professional-certificates/google-data-analytics-korean?collectionId=RFQSv
 
 # 💻 Data = 정보의 모음 (혹은 집합)
 - 정보의 모음에는 숫자, 사진, 동영상, 단어, 측정 항목, 관측값 등이 포함된다.
 - 시간이 지남에 따라 진화한다.
 - 누구나 데이터를 사용함과 동시에, 데이터를 생성하고 있다.
-	- 휴대전화를 사용하여 온라인에 검색, 음악을 스트리밍, 신용 카드로 쇼핑 등의 활동이 데이터를 생성해냄
+	- 휴대전화를 사용하여 온라인에 검색, 음악을 스트리밍, 신용 카드로 쇼핑 등의 활동이 데이터를 생성
 - Google에서는 매초 4만건, 하루에는 35억 건, 매년 1조 2천억 건이 넘는 검색어를 처리한다.
 
 #  🔍 Analytics = 데이터 분석
