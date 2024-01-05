@@ -1,14 +1,6 @@
 ![welcometogcc](./welcometogcc.png)
 
 # 📅 Data Analytics Course
-```mermaid
-graph LR
-    A[질문] --> B(준비)
-    B --> C[처리]
-    C --> D[분석]
-    D --> E[공유]
-    E --> F[조치]
-```
 ![gcccourse](./gcccourse.png)
 
 1. 기초: 어디에나 존재하는 데이터
