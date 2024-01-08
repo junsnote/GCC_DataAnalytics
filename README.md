@@ -1,7 +1,7 @@
-![welcometogcc](./welcometogcc.png)
+![welcometogcc](./img/welcometogcc.png)
 
 # 📅 Data Analytics Course
-![gcccourse](./gcccourse.png)
+![gcccourse](./img/gcccourse.png)
 
 1. 기초: 어디에나 존재하는 데이터
 2. 데이터 기반 의사 결정을 위한 질문
